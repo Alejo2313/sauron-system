@@ -18,7 +18,7 @@ The control panel interface was ntegrated with NodeJS using [gentella] bootstrap
 
 
 ### Sensor server
-![demo](https://github.com/ageapps/sauron-system/blob/master/art/system-overview.jpg?raw=true)
+![demo](https://github.com/ageapps/sauron-system/blob/master/art/sauron-sensor.jpg?raw=true)
 
 The sensor scans the shelf from the back to check for possible wholes. It´s continuously waiting for instructions from the central server.
 

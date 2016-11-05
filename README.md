@@ -1,7 +1,7 @@
 # sauron-system
 
 
-![demo](https://github.com/ageapps/sauron-system/blob/master/sauron_icon.png?raw=true)
+![demo](https://github.com/ageapps/sauron-system/blob/master/art/sauron_icon.png?raw=true)
 
 Web Control Panel from the sauron system.
 

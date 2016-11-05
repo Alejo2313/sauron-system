@@ -12,7 +12,8 @@ Project developed for the Carrefour Challenge. The challenge was to develop a so
 Sauron is a system consisted in a network of sensors located in the back of the shelfs. This way, the whole stock in the shop is monitorized and managed from a central server through an administration panel.
 
 ### Node Server
-Web server developed in NodeJS that would be located in the central node. The server contains the Control Panel and a database with all active sensors in the network
+Web server developed in NodeJS that would be located in the central node. The server contains the Control Panel and a database with all active sensors in the network.
+
 The control panel interface was ntegrated with NodeJS using [gentella] bootstrap template.
 
 
@@ -24,7 +25,7 @@ The sensor scans the shelf from the back to check for possible wholes. It´s con
 Using a SoC with the ESP8266 chip we are able to create a server inside the sensor and get all the data that it is receiving from the ultrasonics sensors.
 
 ## Demo
-[![DEMO](http://img.youtube.com/vi/5hS7yR61zh0/0.jpg)](http://www.youtube.com/watch?v=5hS7yR61zh0)
+[![DEMO](http://img.youtube.com/vi/FfaXOdkMJ0A/0.jpg)](http://www.youtube.com/watch?v=FfaXOdkMJ0A)
 
 
 ## Team
